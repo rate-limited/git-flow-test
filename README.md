@@ -11,3 +11,4 @@ git-flow-test
 * Feature C - 1st commit
 * Feature C - 2nd commit
 
+* A later commit to develop.
