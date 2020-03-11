@@ -5,4 +5,5 @@ git-flow-test
 * First commit to feature A
 * Second commit to feature A
 * First commit to feature B
+* Second commit to feature B
 
