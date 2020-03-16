@@ -12,3 +12,6 @@ git-flow-test
 * Feature C - 2nd commit
 
 * A later commit to develop.
+
+* Change for MyCoolNewFeature
+
